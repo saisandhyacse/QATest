@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASystem", "QASystem.csproj", "{A64A9C47-96BD-4511-8625-00E6E85FC0F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64A9C47-96BD-4511-8625-00E6E85FC0F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64A9C47-96BD-4511-8625-00E6E85FC0F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64A9C47-96BD-4511-8625-00E6E85FC0F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64A9C47-96BD-4511-8625-00E6E85FC0F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6B8112-82A1-4550-B803-2C703A6571BE}
+	EndGlobalSection
+EndGlobal

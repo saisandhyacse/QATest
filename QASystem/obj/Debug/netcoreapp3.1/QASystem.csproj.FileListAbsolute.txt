@@ -1,0 +1,13 @@
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.exe
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.deps.json
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.runtimeconfig.json
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.runtimeconfig.dev.json
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.dll
+C:\Users\Aadhya\source\repos\QASystem\bin\Debug\netcoreapp3.1\QASystem.pdb
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.csprojAssemblyReference.cache
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.csproj.CoreCompileInputs.cache
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.AssemblyInfoInputs.cache
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.AssemblyInfo.cs
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.dll
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.pdb
+C:\Users\Aadhya\source\repos\QASystem\obj\Debug\netcoreapp3.1\QASystem.genruntimeconfig.cache
